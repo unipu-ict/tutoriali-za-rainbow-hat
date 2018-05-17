@@ -1,4 +1,4 @@
-# tutoriali-za-rainbow-hat
+# tutoriali-za-rainbow-hat-iotapp
 Kompilacija uputstava za upravljanje Rainbow HAT-om (led, prekidač, senzor, višesegmentni pokaznik, RGB led).
 
 ### Autori (2017./2018.)
